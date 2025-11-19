@@ -93,6 +93,9 @@ a:hover {
   background-color: #f8f8f8;
   transition: all 0.2s ease;
   font-weight: 500;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
 }
 
 .links a:hover {
